@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64 Bit Versão de avaliação) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="182.88mm" height="91.4398mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 18287.98 9143.98"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#C8C8C8;stroke-width:35.28;stroke-miterlimit:22.9256}
+    .str4 {stroke:#D1B7A2;stroke-width:35.28;stroke-miterlimit:22.9256}
+    .str2 {stroke:white;stroke-width:35.28;stroke-miterlimit:22.9256}
+    .str7 {stroke:#E6E6E6;stroke-width:20;stroke-miterlimit:22.9256}
+    .str8 {stroke:#C8C8C8;stroke-width:17.64;stroke-miterlimit:22.9256}
+    .str1 {stroke:#C8C8C8;stroke-width:17.64;stroke-miterlimit:10}
+    .str6 {stroke:#E6E6E6;stroke-width:17.64;stroke-miterlimit:22.9256}
+    .str5 {stroke:#E6E6E6;stroke-width:17.64;stroke-miterlimit:10}
+    .str3 {stroke:white;stroke-width:35.28;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil4 {fill:none;fill-rule:nonzero}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil1 {fill:#39363E;fill-rule:nonzero}
+    .fil5 {fill:#C8C8C8;fill-rule:nonzero}
+    .fil3 {fill:#E6E6E6;fill-rule:nonzero}
+    .fil7 {fill:#E6E6E6;fill-rule:nonzero}
+    .fil2 {fill:#EBECEE;fill-rule:nonzero}
+    .fil8 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="4624.91" y="1456.39" width="7450.66" height="4559.03"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="10472.99" y="4085.15" width="5342.96" height="3386.67"/>
+   </clipPath>
+    <clipPath id="id2">
+     <rect x="3227.94" y="6584.57" width="2578.96" height="940.16"/>
+    </clipPath>
+    <clipPath id="id3">
+     <rect x="3227.94" y="4053.41" width="2582.32" height="2541.93"/>
+    </clipPath>
+   <clipPath id="id4">
+    <rect x="1444.37" y="5666.27" width="1072.38" height="1913.47"/>
+   </clipPath>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0.01" y="-0.01" width="18287.99" height="9143.99"/>
+  <path class="fil1 str0" d="M12414.22 6476.98c0,175.34 -142.14,317.5 -317.49,317.5l-7514.14 0c-175.35,0 -317.5,-142.16 -317.5,-317.5l0 -5058.81c0,-175.35 142.15,-317.5 317.5,-317.5l7514.14 0c175.35,0 317.49,142.15 317.49,317.5l0 5058.81z"/>
+  <path class="fil2 str0" d="M9360.09 7696.81c-51.63,-62.12 -105.62,-542.5 -143.43,-902.33l-1737.81 0c-37.79,359.83 -91.74,840.21 -143.39,902.33 -99.81,120.05 -276.26,154.11 -276.26,199.47 0,31.89 6.78,62.36 65.28,83.53l1205.17 0 36.26 0 1205.15 0c58.49,-21.17 65.3,-51.64 65.3,-83.53 0,-45.36 -176.44,-79.42 -276.27,-199.47z"/>
+  <polygon class="fil3" points="4614.34,1449.92 4614.34,6021.89 12086.14,6021.89 12086.14,1449.92 "/>
+  <g style="clip-path:url(#id0)">
+   <image id="Screenshot_2.png" x="4624.91" y="1456.39" width="7450.66" height="4559.03" xlink:href="responsive-design_Images\responsive-design_ImgID1.png"/>
+  </g>
+  <path class="fil4 str1" d="M8393.14 1268.06c0,25.05 -20.3,45.37 -45.37,45.37 -25.06,0 -45.38,-20.32 -45.38,-45.37 0,-25.09 20.32,-45.39 45.38,-45.39 25.07,0 45.37,20.3 45.37,45.39z"/>
+  <path class="fil5" d="M8366.95 1268.06c0,10.55 -8.58,19.14 -19.18,19.14 -10.58,0 -19.17,-8.59 -19.17,-19.14 0,-10.62 8.59,-19.18 19.17,-19.18 10.6,0 19.18,8.56 19.18,19.18z"/>
+  <path class="fil5" d="M8427.3 6172.48c0,0 -70.09,8.81 -67.04,77.2 69.07,-2.37 68.07,-74.16 67.04,-77.2z"/>
+  <path class="fil5" d="M8445.37 6352.63c0,-28.08 16.25,-52.37 39.84,-64 -7.2,-9.86 -14.33,-20.59 -24.45,-28.01 -45.68,-24.39 -80.26,6.93 -100.09,8 -19.83,1.07 -0.23,0 -0.23,0 -37.98,0 -52.78,-31.36 -98.48,-6.98 -29.41,21.61 -47.89,54.58 -47.89,95.45 0,46.34 23.76,97.52 60.29,133.61 24.72,30.14 68.11,-3.14 85.99,-3.14 0.12,0 0.25,0 0.38,0 0,0 0.04,3.68 0.18,3.68 17.86,0 61.08,31.67 85.81,1.51 20.68,-20.42 37.25,-45.83 47.74,-73.24 -28.5,-9.34 -49.09,-35.26 -49.09,-66.88z"/>
+  <path class="fil6 str2" d="M15991.38 7725.8l0 -3710.47c0,-100.18 -49.22,-184.17 -149.43,-184.17l-5396.35 0c-100.2,0 -190.37,83.99 -190.37,184.17l0 3710.47 5736.15 0z"/>
+  <polygon class="fil1 str2" points="16965.04,7916.3 9218.07,7916.3 9218.07,7725.8 16965.04,7725.8 "/>
+  <polygon class="fil1 str3" points="16499.95,8043.31 9689.5,8043.31 9226.73,7916.3 16962.73,7916.3 "/>
+  <polygon class="fil3" points="15832.63,7482.39 10456.31,7482.39 10456.31,4074.58 15832.63,4074.58 "/>
+  <path class="fil7" d="M12602.66 7736.39c6.73,21.17 58.18,84.66 120.13,84.66l847 0c62.01,0 113.44,-63.49 120.18,-84.66l-1087.31 0z"/>
+  <path class="fil4 str1" d="M13191.7 3978.17c0,25.01 -20.36,45.35 -45.41,45.35 -25.06,0 -45.35,-20.34 -45.35,-45.35 0,-25.12 20.29,-45.4 45.35,-45.4 25.05,0 45.41,20.28 45.41,45.4z"/>
+  <path class="fil5" d="M13165.47 3978.17c0,10.54 -8.6,19.14 -19.18,19.14 -10.58,0 -19.14,-8.6 -19.14,-19.14 0,-10.63 8.56,-19.18 19.14,-19.18 10.58,0 19.18,8.55 19.18,19.18z"/>
+  <path class="fil8 str4" d="M6191.25 7777.13c0,100.25 -81.25,181.51 -181.48,181.51l-2960.19 0c-100.23,0 -181.48,-81.26 -181.48,-181.51l0 -3912.63c0,-100.23 81.25,-181.5 181.48,-181.5l2960.19 0c100.23,0 181.48,81.27 181.48,181.5l0 3912.63z"/>
+  <polygon class="fil3" points="3217.35,7524.73 3217.35,4053.41 5820.84,4053.41 5820.84,7524.73 "/>
+  <path class="fil4 str5" d="M4525.4 7842.99c-54.57,0 -98.82,-44.24 -98.82,-98.81 0,-54.59 44.25,-98.8 98.82,-98.8 54.58,0 98.82,44.21 98.82,98.8 0,54.57 -44.24,98.81 -98.82,98.81z"/>
+  <path class="fil4 str5" d="M4525.4 7787.75c-24.08,0 -43.61,-19.48 -43.61,-43.57 0,-24.08 19.53,-43.65 43.61,-43.65 24.09,0 43.61,19.57 43.61,43.65 0,24.09 -19.52,43.57 -43.61,43.57z"/>
+  <path class="fil8 str6" d="M4570.78 3863.28c0,25.09 -20.3,45.37 -45.38,45.37 -25.05,0 -45.36,-20.28 -45.36,-45.37 0,-25.1 20.31,-45.37 45.36,-45.37 25.08,0 45.38,20.27 45.38,45.37z"/>
+  <path class="fil5 str7" d="M4544.57 3863.28c0,10.63 -8.58,19.17 -19.17,19.17 -10.59,0 -19.17,-8.54 -19.17,-19.17 0,-10.56 8.58,-19.18 19.17,-19.18 10.59,0 19.17,8.62 19.17,19.18z"/>
+  <path class="fil8 str4" d="M2426.07 5291.65l-23.64 0 0 -21.17 -211.66 0 0 21.17 -660.07 0c-100.24,0 -186.6,84.19 -186.6,184.42l0 196.58 -21.16 0 0 84.66 21.16 0 0 169.34 -21.16 0 0 84.66 21.16 0 0 148.17 -21.16 0 0 84.67 21.16 0 0 1555.02c0,100.21 86.36,180.64 186.6,180.64l895.37 0c100.22,0 188.03,-80.43 188.03,-180.64l0 -2323.1c0,-100.23 -87.81,-184.42 -188.03,-184.42z"/>
+  <polygon class="fil3" points="2518.85,7588.23 1439.35,7588.23 1439.35,5662.06 2518.85,5662.06 "/>
+  <path class="fil7 str8" d="M2004.09 5417.1c0,14.2 -11.51,25.69 -25.72,25.69 -14.2,0 -25.69,-11.49 -25.69,-25.69 0,-14.18 11.49,-25.72 25.69,-25.72 14.21,0 25.72,11.54 25.72,25.72z"/>
+  <path class="fil4 str5" d="M1981.4 7887.92c-54.58,0 -98.8,-44.27 -98.8,-98.84 0,-54.55 44.22,-98.78 98.8,-98.78 54.59,0 98.81,44.23 98.81,98.78 0,54.57 -44.22,98.84 -98.81,98.84z"/>
+  <path class="fil4 str5" d="M1981.4 7832.71c-24.07,0 -43.6,-19.53 -43.6,-43.63 0,-24.1 19.53,-43.6 43.6,-43.6 24.09,0 43.62,19.5 43.62,43.6 0,24.1 -19.53,43.63 -43.62,43.63z"/>
+  <path class="fil7" d="M2074.35 5535.06c0,11.7 -9.48,21.17 -21.17,21.17l-169.33 0c-11.69,0 -21.17,-9.47 -21.17,-21.17 0,-11.69 9.48,-21.16 21.17,-21.16l169.33 0c11.69,0 21.17,9.47 21.17,21.16z"/>
+  <g style="clip-path:url(#id1)">
+   <image id="Screenshot_2.png_0" x="10472.99" y="4085.16" width="5342.95" height="3386.66" xlink:href="responsive-design_Images\responsive-design_ImgID2.png"/>
+  </g>
+  <g id="_3000388420672">
+   <g style="clip-path:url(#id2)">
+    <image id="Screenshot_4.png" x="3227.94" y="6584.58" width="2578.95" height="940.15" xlink:href="responsive-design_Images\responsive-design_ImgID3.png"/>
+   </g>
+   <g style="clip-path:url(#id3)">
+    <image id="Screenshot_3.png" x="3227.94" y="4053.42" width="2582.31" height="2541.92" xlink:href="responsive-design_Images\responsive-design_ImgID4.png"/>
+   </g>
+  </g>
+  <g style="clip-path:url(#id4)">
+   <image id="Screenshot_5.png" x="1444.37" y="5666.28" width="1072.37" height="1913.46" xlink:href="responsive-design_Images\responsive-design_ImgID5.png"/>
+  </g>
+ </g>
+</svg>
